@@ -1,1 +1,1 @@
-#### JS crud form with crud functionality
+#### crud JS form with local storage
